@@ -2,7 +2,7 @@
 
 A single-page flashcard app for memorizing club leaders' names, majors, affiliations, and experiences.
 
-**Live:** https://ryan-chow.github.io/club-leader-flashcards/
+**Live:** http://peerprepacademy.com/club-leader-flashcards/
 
 ## Modes
 - **Flashcards** – name → details. Mark "Got it" / "Missed it"; missed cards come back sooner and more often.
